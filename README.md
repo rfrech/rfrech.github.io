@@ -13,4 +13,4 @@ My goal is to have the tools I need to develop my own apps upon graduating from 
 
 ## Links
 
-* [GitHub](github.com/rfrech)
+* [GitHub](https://.github.com/rfrech)
