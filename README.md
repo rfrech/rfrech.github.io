@@ -7,9 +7,9 @@ My goal is to have the tools I need to develop my own apps upon graduating from 
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/rfrech/deep-dive-hello-world-ij)
 
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/rfrech/android-hello-world)
 
 ## Links
 
