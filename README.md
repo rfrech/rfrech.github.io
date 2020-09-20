@@ -12,3 +12,5 @@ My goal is to have the tools I need to develop my own apps upon graduating from 
 * Hello World: Android app
 
 ## Links
+
+* [GitHub](github.com/rfrech)
