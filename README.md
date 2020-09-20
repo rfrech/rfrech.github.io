@@ -7,4 +7,8 @@ My goal is to have the tools I need to develop my own apps upon graduating from 
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
