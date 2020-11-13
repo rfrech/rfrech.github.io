@@ -1,5 +1,3 @@
-# Roderick Frechette
-
 ## Introduction
 
 I'm a former restaurant manager, currently participating in Cohort 11's Deep Dive Coding Java + Android bootcamp. 
