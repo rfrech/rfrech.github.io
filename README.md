@@ -1,4 +1,4 @@
-<img src="img/websiteprof.png" width="250">
+<img src="img/websiteprof.png" width="300">
 
 ## Introduction
 
