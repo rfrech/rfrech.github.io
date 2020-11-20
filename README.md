@@ -7,9 +7,9 @@ My goal is to have the tools I need to develop my own apps upon graduating from 
 
 ## Current projects
 
-* [Hello World: Java console application](https://github.com/rfrech/deep-dive-hello-world-ij)
+* [TuneFull Musical Social App](https://tunefull.github.io/)
 
-* [Hello World: Android app](https://github.com/rfrech/android-hello-world)
+* [Battle For Midway](https://rfrech.github.io/battle-for-midway/)
 
 ### Recently updated repositories
 
